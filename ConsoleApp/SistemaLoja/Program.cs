@@ -4,7 +4,7 @@ namespace ConsoleApplication1.SistemaLoja {
     internal class Program {
         
         public static void Main(string[] args) {
-            string mensagemEntrada = @"
+            const string mensagemEntrada = @"
     _   ___                                       
    / | / (_)_______     ____  ____ _____ ___  ___ 
   /  |/ / / ___/ _ \   / __ \/ __ `/ __ `__ \/ _ \
@@ -13,8 +13,6 @@ namespace ConsoleApplication1.SistemaLoja {
             
             Console.WriteLine(mensagemEntrada);
             Console.WriteLine("Bem vindo ao Sistema de loja");
-            
-            
         }
     }
 }

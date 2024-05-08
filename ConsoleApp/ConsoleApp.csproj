@@ -41,9 +41,11 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Properties\AssemblyInfo.cs"/>
+        <Compile Include="SistemaLoja\Cliente.cs" />
         <Compile Include="SistemaLoja\Funcionario.cs" />
         <Compile Include="SistemaLoja\Gerente.cs" />
         <Compile Include="SistemaLoja\Loja.cs" />
+        <Compile Include="SistemaLoja\Produto.cs" />
         <Compile Include="SistemaLoja\Program.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
