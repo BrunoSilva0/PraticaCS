@@ -1,0 +1,6 @@
+C:\Users\bruno\RiderProjects\lmao\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\bruno\RiderProjects\lmao\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\bruno\RiderProjects\lmao\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\bruno\RiderProjects\lmao\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bruno\RiderProjects\lmao\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\bruno\RiderProjects\lmao\ConsoleApp\obj\Debug\ConsoleApp.pdb
