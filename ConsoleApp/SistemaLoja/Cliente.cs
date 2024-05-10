@@ -1,9 +1,17 @@
 
 namespace ConsoleApplication1.SistemaLoja
 {
-    public class Cliente {
+    public class Cliente
+    {
+        private string email;
         private string nomeUsuario;
         private string senha;
-        private string dataCriacao;
+
+        public Cliente(string email, string nomeUsuario, string senha)
+        {
+            this.email = email;
+            this.nomeUsuario = nomeUsuario;
+            this.senha = senha;
+        }
     }
 }

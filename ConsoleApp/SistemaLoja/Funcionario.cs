@@ -1,11 +1,20 @@
 namespace ConsoleApplication1.SistemaLoja
 {
-    public abstract class Funcionario {
+    public class Funcionario 
+    {
         private string nome;
+        private string cargo;
         private string cpf;
         private double salario;
 
-        public abstract string retornarCargo(string cargoPesquisa);
-        public abstract double retornarSalario(int horasTrabalhadas, string cargo);
+        protected Funcionario(string nome, string cpf, double salario, string cargo)
+        {
+            this.nome = nome;
+            this.cpf = cpf;
+            this.salario = salario;
+            this.cargo = cargo;
+        }
+        
+        
     }
 }
