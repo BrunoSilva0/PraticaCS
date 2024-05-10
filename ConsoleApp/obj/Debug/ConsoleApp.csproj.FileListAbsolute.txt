@@ -4,3 +4,6 @@ C:\Users\bruno\RiderProjects\lmao\ConsoleApp\obj\Debug\ConsoleApp.csproj.Assembl
 C:\Users\bruno\RiderProjects\lmao\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\bruno\RiderProjects\lmao\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\Users\bruno\RiderProjects\lmao\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\bruno\RiderProjects\lmao\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bruno\RiderProjects\lmao\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bruno\RiderProjects\lmao\ConsoleApp\obj\Debug\ConsoleApp.csproj.Up2Date
