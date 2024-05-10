@@ -1,7 +1,8 @@
 ﻿using System;
 
-namespace ConsoleApplication1.SistemaLoja {
-    internal class Program {
+namespace ConsoleApplication1.SistemaLoja 
+{
+    internal class MainProgram {
         
         public static void Main(string[] args) {
             const string mensagemEntrada = @"
